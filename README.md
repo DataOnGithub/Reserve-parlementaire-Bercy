@@ -13,3 +13,6 @@ Toutes les données sont remises à disposition sous conditions Open Data sous l
 [Regards Citoyens](http://www.regardscitoyens.org)
 
 source : [performance-publique.budget.gouv.fr](http://www.performance-publique.budget.gouv.fr/documents-budgetaires/lois-projets-lois-documents-annexes-annee/exercice-2013/projet-loi-reglement-rap-2013#.VB2Sb32-jMI) le 20/09/2014
+
+
+ [This data is mirrored and can be queried via API here](https://www.exversion.com/data/collection/view/54216d15290b5)
